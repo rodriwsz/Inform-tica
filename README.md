@@ -14,7 +14,7 @@ Trabalho executado via Excel: Formatação em Tabelas e Remoção de Duplicatas.
 
 # Atividade de Dados Abertos em Planilhas
 Trabalho executado via Excel: Funções e Formatações de Gráfico. 
-[Link para acesso.](https://github.com/rodriwsz/Inform-tica/blob/main/arquivos/fornecedores.xlsx). <br>
+[Link para acesso.](https://github.com/rodriwsz/Inform-tica/blob/main/arquivos/fornecedores.xlsx) <br>
 <p align="center">
 <img width="444" height="275" alt="image" src="https://github.com/user-attachments/assets/05039ef5-0c64-44aa-9b88-72aa8b352739" />
 
@@ -22,7 +22,7 @@ Trabalho executado via Excel: Funções e Formatações de Gráfico.
 
 # Atividade de função SOMASE e CONT.SE
 Trabalho executado via Excel: Funções de soma e concatenação de informações. 
-[Link para acesso.](https://github.com/rodriwsz/Inform-tica/blob/main/arquivos/despesa_funcao.xlsx). <br>
+[Link para acesso.](https://github.com/rodriwsz/Inform-tica/blob/main/arquivos/despesa_funcao.xlsx) <br>
 <img width="1831" height="597" alt="image" src="https://github.com/user-attachments/assets/a8162cbf-fd2a-4853-bbcf-9a906c0f031b" />
 
 ---
@@ -44,7 +44,8 @@ Trabalho executado via Excel: Função SOMASE e questões sobre o assunto. <br>
 ---
 
 # Atividade Dados Abertos de SP - VOLUME TOTAL TRANSPORTADO TRAVESSIAS 2019
-Trabalho executado via Excel: Uso de formúlas e perguntas e respostas sobre o tema apresentado. <br>
+Trabalho executado via Excel: Uso de formúlas e perguntas e respostas sobre o tema apresentado.
+[Link para acesso.](https://github.com/rodriwsz/Inform-tica/blob/main/arquivos/VOLUME-TRAVESSIAS-2019.xlsx) <br>
 <p align="center">
 <img width="730" height="749" alt="image" src="https://github.com/user-attachments/assets/a1e6f507-f72a-4cd0-b2a5-df4b5877ed59" />
 <img align="center" width="469" height="332" alt="image" src="https://github.com/user-attachments/assets/3186f87f-1f86-42a3-8de9-7dd5d928597e" />
