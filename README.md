@@ -8,7 +8,6 @@ Trabalho executado via Canva: Animações e Figuras.
 # Atividade de Dados Abertos em Planilhas.
 Trabalho executado via Excel: Formatação em Tabelas e Remoção de Duplicatas. 
 [Link para acesso.](https://github.com/rodriwsz/Inform-tica/blob/main/arquivos/balancete_receita.xlsx) <br>
-<p align="center">
 <img width="1820" height="474" alt="image" src="https://github.com/user-attachments/assets/10186a85-881e-452c-83b1-dc41fee59d71" />
 
 ---
@@ -16,6 +15,7 @@ Trabalho executado via Excel: Formatação em Tabelas e Remoção de Duplicatas.
 # Atividade de Dados Abertos em Planilhas
 Trabalho executado via Excel: Funções e Formatações de Gráfico. 
 [Link para acesso.](https://github.com/rodriwsz/Inform-tica/blob/main/arquivos/fornecedores.xlsx). <br>
+<p align="center">
 <img width="444" height="275" alt="image" src="https://github.com/user-attachments/assets/05039ef5-0c64-44aa-9b88-72aa8b352739" />
 
 ---
