@@ -52,6 +52,13 @@ Trabalho executado via Excel: Uso de formúlas e perguntas e respostas sobre o t
 
 ---
 
+# Atividade de modelagem de dados/tratamento de dados (fórmulas DAX)
+Trabalho executado através do PowerBI: Uso de fórumla DAX, que são expressões usadas no Power BI, Excel Power Pivot e Analysis Services para criar cálculos dinâmicos, medidas e colunas calculadas.
+[Link para acesso.](https://github.com/rodriwsz/Inform-tica/blob/main/arquivos/formuladax_informatica.pbix) <br>
+<p align="center">
+<img width="1205" height="703" alt="image" src="https://github.com/user-attachments/assets/a145c581-3018-487f-9f60-f9529dabf980" />
+
+---
 
 
 
