@@ -60,6 +60,45 @@ Trabalho executado através do PowerBI: Uso de fórumla DAX, que são expressõe
 
 ---
 
+# Atividade de regressão linear
+Utilizando a ferramenta Excel para criar uma tabela para estudo de vendas de sorvete baseada na temperatura
+<img width="1107" height="652" alt="image" src="https://github.com/user-attachments/assets/218f2c0f-16f7-47d6-b56c-923ba83806d6" />
+
+---
+
+# Atividade sobre comparação de coeficientes lineares
+Utilizando Excel e Colab para descobrir o principal fator que influência na qualidade do vinho Por Excel: Sulfato
+<img width="751" height="423" alt="image" src="https://github.com/user-attachments/assets/4ac4061a-45f7-4086-9a24-67b54b697dd3" />
+<img width="750" height="439" alt="image" src="https://github.com/user-attachments/assets/dcb423a9-985e-424e-b2c8-965cae8fe3bd" />
+<img width="757" height="438" alt="image" src="https://github.com/user-attachments/assets/9c971004-5ee9-4e03-a2e0-953ed0d5c0ba" />
+<img width="751" height="442" alt="image" src="https://github.com/user-attachments/assets/ecd439d1-9098-4bad-bd76-272c2ab5f45a" />
+<img width="755" height="440" alt="image" src="https://github.com/user-attachments/assets/b7d48800-13e1-41a4-a7f0-73671923ffa3" />
+<img width="753" height="422" alt="image" src="https://github.com/user-attachments/assets/d3fcbfc1-ab81-433f-9f13-f15d54801aff" />
+<img width="752" height="420" alt="image" src="https://github.com/user-attachments/assets/644c8ed1-7751-44df-943c-81baf206c962" />
+<img width="752" height="426" alt="image" src="https://github.com/user-attachments/assets/89aa31b2-9b23-4b3a-9b69-d3b1bea982e2" />
+<img width="754" height="442" alt="image" src="https://github.com/user-attachments/assets/17c5b321-5694-4cc6-8ee1-79c23beec5d5" />
+<img width="755" height="439" alt="image" src="https://github.com/user-attachments/assets/3d71323c-10eb-4440-8e4c-e990bae15137" />
+
+---
+
+# Atividade criação de dashboard
+Criação de um Dashboard sobre venda de cerveja e sorvete, utilizando os conhecimentos adquiridos ao longo do semestre
+<img width="1311" height="698" alt="image" src="https://github.com/user-attachments/assets/a0f64dca-1856-4fbb-8c16-15c608e86fba" />
+
+---
+
+# Prova 28/05 
+<img width="903" height="680" alt="image" src="https://github.com/user-attachments/assets/e4dca477-0cb1-4733-8cb3-0fa2cc9d93d7" />
+<img width="938" height="763" alt="image" src="https://github.com/user-attachments/assets/f1fb2195-36b1-4fa9-bcc0-401a1aa65ef9" />
+
+
+
+
+
+
+
+
+
 
 
 
